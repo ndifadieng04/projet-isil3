@@ -1,1 +1,2 @@
 echo "Bienvenue dans mon projet Git" 
+echo "Modification spécifique à version1" 
